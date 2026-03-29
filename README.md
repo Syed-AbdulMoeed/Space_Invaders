@@ -1,9 +1,3 @@
-This is a great addition to a CV. To make it stand out to recruiters, I’ve pivoted the focus from "gameplay" to **software architecture** and **technical implementation**. 
-
-Here is a refined, professional `README.md` designed for a technical portfolio:
-
----
-
 ## Space Invaders: Architectural Implementation
 
 A high-performance Python implementation of the classic arcade shooter, engineered with a strict adherence to decoupled design patterns and real-time state management.
