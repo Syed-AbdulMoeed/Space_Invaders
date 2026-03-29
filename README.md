@@ -5,7 +5,7 @@ A high-performance Python implementation of the classic arcade shooter, engineer
 ### 🏗 Technical Architecture: MVC Pattern
 The project is structured using the **Model-View-Controller (MVC)** design pattern to ensure scalability and separation of concerns:
 * **Model:** Manages the game state, coordinate systems, and collision logic independent of the rendering engine.
-* **View:** Handles the graphical representation of game objects using the Pygame surface API and sprite layering.
+* **View:** Handles the graphical representation of game objects using Tkinter.
 * **Controller:** Processes user input events and translates them into state mutations within the Model.
 
 ### 🛠 Core Technical Features
