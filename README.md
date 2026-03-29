@@ -16,8 +16,9 @@ The project is structured using the **Model-View-Controller (MVC)** design patte
 
 ### 💻 Tech Stack
 * **Language:** Python 3.x
-* **Engine:** Pygame (Low-level Multimedia Library)
+* **Engine:** Tkinter
 * **Patterns:** Model-View-Controller (MVC), Singleton, Observer.
+* **Audio Mixer:** Pygame
 
 ### 📦 Quick Start
 1. **Clone & Enter:**
